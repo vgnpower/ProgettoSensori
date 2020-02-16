@@ -1,0 +1,23 @@
+#######################################
+# Gestione Colori per le Librerie
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Dpc	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+calcEs	KEYWORD2
+calcE	KEYWORD2
+calcDPcl1	KEYWORD2
+setupSens	KEYWORD2
+outputVar	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

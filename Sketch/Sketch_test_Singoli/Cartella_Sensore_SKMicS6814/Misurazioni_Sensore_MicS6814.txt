@@ -1,0 +1,583 @@
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.48
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.48
+Controllo interno ratio secondo if
+0.26
+0.14
+0.48
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.48
+Controllo interno ratio secondo if
+0.26
+0.14
+0.48
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.48
+Controllo interno ratio secondo if
+0.26
+0.14
+0.48
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.48
+Controllo interno ratio secondo if
+0.26
+0.14
+0.48
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.48
+Controllo interno ratio secondo if
+0.26
+0.14
+0.48
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.48
+Controllo interno ratio secondo if
+0.26
+0.14
+0.48
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.48
+Controllo interno ratio secondo if
+0.26
+0.14
+0.48
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.48
+Controllo interno ratio secondo if
+0.26
+0.14
+0.48
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.48
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14
+0.47
+Ratio1: 
+0.26
+Ratio2: 
+0.14
+Ratio3: 
+0.47
+Controllo interno ratio secondo if
+0.26
+0.14

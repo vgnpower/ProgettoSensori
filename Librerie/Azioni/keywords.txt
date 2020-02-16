@@ -1,0 +1,37 @@
+#######################################
+# Gestione Colori per le Librerie
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Azioni	KEYWORD1
+	
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+AL1	KEYWORD2
+AL2	KEYWORD2
+AL3	KEYWORD2
+AL4	KEYWORD2
+ELG	KEYWORD2
+EE	KEYWORD2
+E	KEYWORD2
+I_OP	KEYWORD2
+EAQC	KEYWORD2
+IEMQ3AQC	KEYWORD2
+IEMQ7AQC	KEYWORD2
+IEMQ135AQC	KEYWORD2
+FCAI	KEYWORD2
+FMAI	KEYWORD2
+IECOMICS6814AQC	KEYWORD2
+IENO2MICS6814AQC	KEYWORD2
+IENH3MICS6814AQC	KEYWORD2
+IEMP503AQC	KEYWORD2
+IEWSP2110AQC	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

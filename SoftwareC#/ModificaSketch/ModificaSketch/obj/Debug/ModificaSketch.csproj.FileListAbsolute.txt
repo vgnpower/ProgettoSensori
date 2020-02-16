@@ -1,0 +1,9 @@
+c:\users\ale\documents\visual studio 2017\Projects\ModificaSketch\ModificaSketch\bin\Debug\ModificaSketch.exe.config
+c:\users\ale\documents\visual studio 2017\Projects\ModificaSketch\ModificaSketch\bin\Debug\ModificaSketch.exe
+c:\users\ale\documents\visual studio 2017\Projects\ModificaSketch\ModificaSketch\bin\Debug\ModificaSketch.pdb
+c:\users\ale\documents\visual studio 2017\Projects\ModificaSketch\ModificaSketch\obj\Debug\ModificaSketch.csprojResolveAssemblyReference.cache
+c:\users\ale\documents\visual studio 2017\Projects\ModificaSketch\ModificaSketch\obj\Debug\ModificaSketch.Form1.resources
+c:\users\ale\documents\visual studio 2017\Projects\ModificaSketch\ModificaSketch\obj\Debug\ModificaSketch.Properties.Resources.resources
+c:\users\ale\documents\visual studio 2017\Projects\ModificaSketch\ModificaSketch\obj\Debug\ModificaSketch.csproj.GenerateResource.Cache
+c:\users\ale\documents\visual studio 2017\Projects\ModificaSketch\ModificaSketch\obj\Debug\ModificaSketch.exe
+c:\users\ale\documents\visual studio 2017\Projects\ModificaSketch\ModificaSketch\obj\Debug\ModificaSketch.pdb

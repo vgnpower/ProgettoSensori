@@ -1,0 +1,43 @@
+#######################################
+# Gestione Colori per le Librerie
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Sensori	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+AM2302_Temp	KEYWORD2
+AM2302_Hum	KEYWORD2
+MQ_Volt	KEYWORD2
+MQ_R0	KEYWORD2
+MQ_RS	KEYWORD2
+MQ_Ratio	KEYWORD2
+AM2302_SetUp	KEYWORD2
+MultiChannelGasSensor_SetUp	KEYWORD2
+PPD42NS_SetUp	KEYWORD2
+AirQualitySensor_Setup	KEYWORD2
+MultiChannelGasSensor_NH3	KEYWORD2
+MultiChannelGasSensor_Ratio1	KEYWORD2
+MultiChannelGasSensor_Ratio2	KEYWORD2
+MultiChannelGasSensor_Ratio3	KEYWORD2
+MG811_Volts	KEYWORD2
+MG811_CO2	KEYWORD2
+HCH0_R0	KEYWORD2
+AirQualitySensor	KEYWORD2
+MHZ16_Temperature	KEYWORD2
+MHZ16_CO2	KEYWORD2
+PPD42NS_Time	KEYWORD2
+PPD42NS_Concentration	KEYWORD2
+PPD42NS_Duty_Cycle	KEYWORD2
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################

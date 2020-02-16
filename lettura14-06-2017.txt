@@ -1,0 +1,1780 @@
+﻿###########Inizio lettura sensori Interni###########
+Temperatura 31.90
+hum: 28.90
+Ratio del sensore MQ2: 46.10
+Temperatura > 20
+Ratio del sensore MQ3: 45.20
+Temperatura > 20
+Ratio del sensore MQ4: 62.43
+Temperatura > 20
+Ratio del sensore MQ5: 8.21
+Temperatura > 20
+Ratio del sensore MQ6: 0.90
+Temperatura > 20
+Ratio del sensore MQ7: 30.97
+Temperatura > 20
+Ratio del sensore MQ8: 46.97
+Temperatura > 20
+Ratio del sensore MQ135: 50.90
+Temperatura > 20
+MQ2_RH=46.13
+MQ3_RH=45.23
+MQ4_RH=62.46
+MQ5_RH=8.24
+MQ6_RH=0.93
+MQ7_RH=31.00
+MQ8_RH=47.00
+MQ135_RH=50.93
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.27
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.90
+UmiditÃ  AM2302: 28.90
+MG811 volts: 0.47
+MG811 CO2: 14016
+HCH0 r0: 203.60
+Airquality(MP503): sensor_value:5	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 31.90
+hum: 28.70
+Ratio del sensore MQ2: 47.10
+Temperatura > 20
+Ratio del sensore MQ3: 44.93
+Temperatura > 20
+Ratio del sensore MQ4: 62.50
+Temperatura > 20
+Ratio del sensore MQ5: 8.21
+Temperatura > 20
+Ratio del sensore MQ6: 0.87
+Temperatura > 20
+Ratio del sensore MQ7: 30.57
+Temperatura > 20
+Ratio del sensore MQ8: 46.97
+Temperatura > 20
+Ratio del sensore MQ135: 51.01
+Temperatura > 20
+MQ2_RH=47.13
+MQ3_RH=44.96
+MQ4_RH=62.53
+MQ5_RH=8.24
+MQ6_RH=0.90
+MQ7_RH=30.60
+MQ8_RH=47.00
+MQ135_RH=51.04
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.27
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.90
+UmiditÃ  AM2302: 28.70
+MG811 volts: 0.47
+MG811 CO2: -7040
+HCH0 r0: 203.60
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########
+###########Inizio lettura sensori Interni###########
+Temperatura 31.90
+hum: 28.70
+Ratio del sensore MQ2: 46.55
+Temperatura > 20
+Ratio del sensore MQ3: 43.77
+Temperatura > 20
+Ratio del sensore MQ4: 62.31
+Temperatura > 20
+Ratio del sensore MQ5: 8.16
+Temperatura > 20
+Ratio del sensore MQ6: 0.89
+Temperatura > 20
+Ratio del sensore MQ7: 30.50
+Temperatura > 20
+Ratio del sensore MQ8: 46.86
+Temperatura > 20
+Ratio del sensore MQ135: 50.72
+Temperatura > 20
+MQ2_RH=46.58
+MQ3_RH=43.80
+MQ4_RH=62.34
+MQ5_RH=8.19
+MQ6_RH=0.92
+MQ7_RH=30.53
+MQ8_RH=46.89
+MQ135_RH=50.75
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.27
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.90
+UmiditÃ  AM2302: 28.70
+MG811 volts: 0.47
+MG811 CO2: -7040
+HCH0 r0: 203.60
+Airquality(MP503): sensor_value:5	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 31.90
+hum: 28.70
+Ratio del sensore MQ2: 47.19
+Temperatura > 20
+Ratio del sensore MQ3: 43.71
+Temperatura > 20
+Ratio del sensore MQ4: 62.24
+Temperatura > 20
+Ratio del sensore MQ5: 8.19
+Temperatura > 20
+Ratio del sensore MQ6: 0.92
+Temperatura > 20
+Ratio del sensore MQ7: 30.39
+Temperatura > 20
+Ratio del sensore MQ8: 46.84
+Temperatura > 20
+Ratio del sensore MQ135: 50.73
+Temperatura > 20
+MQ2_RH=47.22
+MQ3_RH=43.74
+MQ4_RH=62.27
+MQ5_RH=8.22
+MQ6_RH=0.95
+MQ7_RH=30.42
+MQ8_RH=46.87
+MQ135_RH=50.76
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.27
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.90
+UmiditÃ  AM2302: 28.70
+MG811 volts: 0.47
+MG811 CO2: -7040
+HCH0 r0: 203.60
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########
+###########Inizio lettura sensori Interni###########
+Temperatura 31.90
+hum: 28.60
+Ratio del sensore MQ2: 47.38
+Temperatura > 20
+Ratio del sensore MQ3: 43.90
+Temperatura > 20
+Ratio del sensore MQ4: 63.93
+Temperatura > 20
+Ratio del sensore MQ5: 8.56
+Temperatura > 20
+Ratio del sensore MQ6: 0.84
+Temperatura > 20
+Ratio del sensore MQ7: 30.43
+Temperatura > 20
+Ratio del sensore MQ8: 46.58
+Temperatura > 20
+Ratio del sensore MQ135: 50.25
+Temperatura > 20
+MQ2_RH=47.41
+MQ3_RH=43.93
+MQ4_RH=63.96
+MQ5_RH=8.59
+MQ6_RH=0.88
+MQ7_RH=30.46
+MQ8_RH=46.61
+MQ135_RH=50.28
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.90
+UmiditÃ  AM2302: 28.60
+MG811 volts: 0.47
+MG811 CO2: -7040
+HCH0 r0: 203.60
+Airquality(MP503): sensor_value:5	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 32.00
+hum: 28.70
+Ratio del sensore MQ2: 48.94
+Temperatura > 20
+Ratio del sensore MQ3: 43.96
+Temperatura > 20
+Ratio del sensore MQ4: 66.79
+Temperatura > 20
+Ratio del sensore MQ5: 8.90
+Temperatura > 20
+Ratio del sensore MQ6: 0.86
+Temperatura > 20
+Ratio del sensore MQ7: 30.30
+Temperatura > 20
+Ratio del sensore MQ8: 46.60
+Temperatura > 20
+Ratio del sensore MQ135: 50.19
+Temperatura > 20
+MQ2_RH=48.97
+MQ3_RH=43.99
+MQ4_RH=66.82
+MQ5_RH=8.93
+MQ6_RH=0.89
+MQ7_RH=30.33
+MQ8_RH=46.63
+MQ135_RH=50.22
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 32.00
+UmiditÃ  AM2302: 28.70
+MG811 volts: 0.47
+MG811 CO2: 14016
+HCH0 r0: 254.75
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########
+###########Inizio lettura sensori Interni###########
+Temperatura 31.90
+hum: 28.70
+Ratio del sensore MQ2: 46.92
+Temperatura > 20
+Ratio del sensore MQ3: 43.84
+Temperatura > 20
+Ratio del sensore MQ4: 66.19
+Temperatura > 20
+Ratio del sensore MQ5: 8.97
+Temperatura > 20
+Ratio del sensore MQ6: 0.89
+Temperatura > 20
+Ratio del sensore MQ7: 30.09
+Temperatura > 20
+Ratio del sensore MQ8: 46.38
+Temperatura > 20
+Ratio del sensore MQ135: 50.11
+Temperatura > 20
+MQ2_RH=46.95
+MQ3_RH=43.87
+MQ4_RH=66.22
+MQ5_RH=9.00
+MQ6_RH=0.92
+MQ7_RH=30.12
+MQ8_RH=46.41
+MQ135_RH=50.14
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.90
+UmiditÃ  AM2302: 28.70
+MG811 volts: 0.47
+MG811 CO2: 1856
+HCH0 r0: 203.60
+Airquality(MP503): sensor_value:5	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 31.90
+hum: 28.80
+Ratio del sensore MQ2: 46.82
+Temperatura > 20
+Ratio del sensore MQ3: 43.34
+Temperatura > 20
+Ratio del sensore MQ4: 65.99
+Temperatura > 20
+Ratio del sensore MQ5: 8.99
+Temperatura > 20
+Ratio del sensore MQ6: 0.90
+Temperatura > 20
+Ratio del sensore MQ7: 30.13
+Temperatura > 20
+Ratio del sensore MQ8: 46.33
+Temperatura > 20
+Ratio del sensore MQ135: 50.17
+Temperatura > 20
+MQ2_RH=46.85
+MQ3_RH=43.37
+MQ4_RH=66.02
+MQ5_RH=9.02
+MQ6_RH=0.93
+MQ7_RH=30.16
+MQ8_RH=46.36
+MQ135_RH=50.20
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.90
+UmiditÃ  AM2302: 28.80
+MG811 volts: 0.47
+MG811 CO2: -7040
+HCH0 r0: 203.60
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 30823
+PPD32NS Concetrazione: 797.02
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########
+###########Inizio lettura sensori Interni###########
+Temperatura 31.80
+hum: 28.80
+Ratio del sensore MQ2: 45.31
+Temperatura > 20
+Ratio del sensore MQ3: 44.15
+Temperatura > 20
+Ratio del sensore MQ4: 63.72
+Temperatura > 20
+Ratio del sensore MQ5: 8.62
+Temperatura > 20
+Ratio del sensore MQ6: 0.89
+Temperatura > 20
+Ratio del sensore MQ7: 30.24
+Temperatura > 20
+Ratio del sensore MQ8: 46.02
+Temperatura > 20
+Ratio del sensore MQ135: 49.55
+Temperatura > 20
+MQ2_RH=45.34
+MQ3_RH=44.18
+MQ4_RH=63.75
+MQ5_RH=8.65
+MQ6_RH=0.92
+MQ7_RH=30.27
+MQ8_RH=46.05
+MQ135_RH=49.58
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.80
+UmiditÃ  AM2302: 28.80
+MG811 volts: 0.47
+MG811 CO2: 1856
+HCH0 r0: 203.60
+Airquality(MP503): sensor_value:5	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 31.70
+hum: 28.90
+Ratio del sensore MQ2: 44.55
+Temperatura > 20
+Ratio del sensore MQ3: 43.77
+Temperatura > 20
+Ratio del sensore MQ4: 63.03
+Temperatura > 20
+Ratio del sensore MQ5: 8.55
+Temperatura > 20
+Ratio del sensore MQ6: 0.91
+Temperatura > 20
+Ratio del sensore MQ7: 30.11
+Temperatura > 20
+Ratio del sensore MQ8: 45.84
+Temperatura > 20
+Ratio del sensore MQ135: 49.27
+Temperatura > 20
+MQ2_RH=44.58
+MQ3_RH=43.80
+MQ4_RH=63.06
+MQ5_RH=8.58
+MQ6_RH=0.94
+MQ7_RH=30.14
+MQ8_RH=45.87
+MQ135_RH=49.30
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.70
+UmiditÃ  AM2302: 28.90
+MG811 volts: 0.47
+MG811 CO2: 27136
+HCH0 r0: 169.50
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########
+###########Inizio lettura sensori Interni###########
+Temperatura 31.70
+hum: 28.90
+Ratio del sensore MQ2: 40.46
+Temperatura > 20
+Ratio del sensore MQ3: 43.53
+Temperatura > 20
+Ratio del sensore MQ4: 59.02
+Temperatura > 20
+Ratio del sensore MQ5: 7.82
+Temperatura > 20
+Ratio del sensore MQ6: 0.85
+Temperatura > 20
+Ratio del sensore MQ7: 29.44
+Temperatura > 20
+Ratio del sensore MQ8: 45.09
+Temperatura > 20
+Ratio del sensore MQ135: 47.98
+Temperatura > 20
+MQ2_RH=40.49
+MQ3_RH=43.56
+MQ4_RH=59.05
+MQ5_RH=7.85
+MQ6_RH=0.88
+MQ7_RH=29.47
+MQ8_RH=45.12
+MQ135_RH=48.01
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.70
+UmiditÃ  AM2302: 28.90
+MG811 volts: 0.47
+MG811 CO2: -7040
+HCH0 r0: 169.50
+Airquality(MP503): sensor_value:14	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 31.60
+hum: 29.10
+Ratio del sensore MQ2: 40.67
+Temperatura > 20
+Ratio del sensore MQ3: 43.84
+Temperatura > 20
+Ratio del sensore MQ4: 58.42
+Temperatura > 20
+Ratio del sensore MQ5: 7.79
+Temperatura > 20
+Ratio del sensore MQ6: 0.92
+Temperatura > 20
+Ratio del sensore MQ7: 29.75
+Temperatura > 20
+Ratio del sensore MQ8: 45.02
+Temperatura > 20
+Ratio del sensore MQ135: 47.89
+Temperatura > 20
+MQ2_RH=40.70
+MQ3_RH=43.87
+MQ4_RH=58.45
+MQ5_RH=7.82
+MQ6_RH=0.95
+MQ7_RH=29.78
+MQ8_RH=45.05
+MQ135_RH=47.93
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.60
+UmiditÃ  AM2302: 29.10
+MG811 volts: 0.47
+MG811 CO2: -7040
+HCH0 r0: 169.50
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########
+###########Inizio lettura sensori Interni###########
+Temperatura 31.60
+hum: 29.10
+Ratio del sensore MQ2: 40.81
+Temperatura > 20
+Ratio del sensore MQ3: 43.59
+Temperatura > 20
+Ratio del sensore MQ4: 57.49
+Temperatura > 20
+Ratio del sensore MQ5: 7.64
+Temperatura > 20
+Ratio del sensore MQ6: 0.86
+Temperatura > 20
+Ratio del sensore MQ7: 30.05
+Temperatura > 20
+Ratio del sensore MQ8: 44.64
+Temperatura > 20
+Ratio del sensore MQ135: 48.05
+Temperatura > 20
+MQ2_RH=40.84
+MQ3_RH=43.62
+MQ4_RH=57.52
+MQ5_RH=7.67
+MQ6_RH=0.89
+MQ7_RH=30.08
+MQ8_RH=44.67
+MQ135_RH=48.08
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.60
+UmiditÃ  AM2302: 29.10
+MG811 volts: 0.47
+MG811 CO2: -7040
+HCH0 r0: 169.50
+Airquality(MP503): sensor_value:5	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 31.50
+hum: 29.10
+Ratio del sensore MQ2: 40.06
+Temperatura > 20
+Ratio del sensore MQ3: 43.46
+Temperatura > 20
+Ratio del sensore MQ4: 57.32
+Temperatura > 20
+Ratio del sensore MQ5: 7.52
+Temperatura > 20
+Ratio del sensore MQ6: 0.91
+Temperatura > 20
+Ratio del sensore MQ7: 30.02
+Temperatura > 20
+Ratio del sensore MQ8: 44.62
+Temperatura > 20
+Ratio del sensore MQ135: 47.83
+Temperatura > 20
+MQ2_RH=40.09
+MQ3_RH=43.49
+MQ4_RH=57.35
+MQ5_RH=7.55
+MQ6_RH=0.94
+MQ7_RH=30.06
+MQ8_RH=44.65
+MQ135_RH=47.86
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.50
+UmiditÃ  AM2302: 29.10
+MG811 volts: 0.47
+MG811 CO2: -7040
+HCH0 r0: 169.50
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########
+###########Inizio lettura sensori Interni###########
+Temperatura 31.50
+hum: 29.20
+Ratio del sensore MQ2: 42.26
+Temperatura > 20
+Ratio del sensore MQ3: 43.53
+Temperatura > 20
+Ratio del sensore MQ4: 57.21
+Temperatura > 20
+Ratio del sensore MQ5: 7.48
+Temperatura > 20
+Ratio del sensore MQ6: 0.87
+Temperatura > 20
+Ratio del sensore MQ7: 30.15
+Temperatura > 20
+Ratio del sensore MQ8: 44.51
+Temperatura > 20
+Ratio del sensore MQ135: 48.00
+Temperatura > 20
+MQ2_RH=42.29
+MQ3_RH=43.56
+MQ4_RH=57.24
+MQ5_RH=7.51
+MQ6_RH=0.90
+MQ7_RH=30.18
+MQ8_RH=44.54
+MQ135_RH=48.03
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.50
+UmiditÃ  AM2302: 29.20
+MG811 volts: 0.48
+MG811 CO2: 896
+HCH0 r0: 203.60
+Airquality(MP503): sensor_value:6	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 31.50
+hum: 29.30
+Ratio del sensore MQ2: 42.04
+Temperatura > 20
+Ratio del sensore MQ3: 43.71
+Temperatura > 20
+Ratio del sensore MQ4: 57.23
+Temperatura > 20
+Ratio del sensore MQ5: 7.46
+Temperatura > 20
+Ratio del sensore MQ6: 0.94
+Temperatura > 20
+Ratio del sensore MQ7: 30.11
+Temperatura > 20
+Ratio del sensore MQ8: 44.56
+Temperatura > 20
+Ratio del sensore MQ135: 48.07
+Temperatura > 20
+MQ2_RH=42.07
+MQ3_RH=43.74
+MQ4_RH=57.26
+MQ5_RH=7.49
+MQ6_RH=0.97
+MQ7_RH=30.14
+MQ8_RH=44.59
+MQ135_RH=48.10
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.50
+UmiditÃ  AM2302: 29.30
+MG811 volts: 0.47
+MG811 CO2: 13696
+HCH0 r0: 169.50
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########
+###########Inizio lettura sensori Interni###########
+Temperatura 31.50
+hum: 29.30
+Ratio del sensore MQ2: 41.45
+Temperatura > 20
+Ratio del sensore MQ3: 44.54
+Temperatura > 20
+Ratio del sensore MQ4: 57.21
+Temperatura > 20
+Ratio del sensore MQ5: 7.44
+Temperatura > 20
+Ratio del sensore MQ6: 0.84
+Temperatura > 20
+Ratio del sensore MQ7: 30.15
+Temperatura > 20
+Ratio del sensore MQ8: 44.63
+Temperatura > 20
+Ratio del sensore MQ135: 48.55
+Temperatura > 20
+MQ2_RH=41.48
+MQ3_RH=44.57
+MQ4_RH=57.24
+MQ5_RH=7.47
+MQ6_RH=0.87
+MQ7_RH=30.18
+MQ8_RH=44.66
+MQ135_RH=48.58
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.50
+UmiditÃ  AM2302: 29.30
+MG811 volts: 0.48
+MG811 CO2: 24512
+HCH0 r0: 169.50
+Airquality(MP503): sensor_value:6	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 31.40
+hum: 29.30
+Ratio del sensore MQ2: 41.45
+Temperatura > 20
+Ratio del sensore MQ3: 44.15
+Temperatura > 20
+Ratio del sensore MQ4: 57.07
+Temperatura > 20
+Ratio del sensore MQ5: 7.45
+Temperatura > 20
+Ratio del sensore MQ6: 0.85
+Temperatura > 20
+Ratio del sensore MQ7: 30.39
+Temperatura > 20
+Ratio del sensore MQ8: 44.54
+Temperatura > 20
+Ratio del sensore MQ135: 48.13
+Temperatura > 20
+MQ2_RH=41.48
+MQ3_RH=44.18
+MQ4_RH=57.10
+MQ5_RH=7.48
+MQ6_RH=0.88
+MQ7_RH=30.42
+MQ8_RH=44.57
+MQ135_RH=48.16
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.40
+UmiditÃ  AM2302: 29.30
+MG811 volts: 0.48
+MG811 CO2: 24512
+HCH0 r0: 203.60
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########
+###########Inizio lettura sensori Interni###########
+Temperatura 31.40
+hum: 29.30
+Ratio del sensore MQ2: 39.66
+Temperatura > 20
+Ratio del sensore MQ3: 45.06
+Temperatura > 20
+Ratio del sensore MQ4: 56.27
+Temperatura > 20
+Ratio del sensore MQ5: 7.42
+Temperatura > 20
+Ratio del sensore MQ6: 0.84
+Temperatura > 20
+Ratio del sensore MQ7: 30.37
+Temperatura > 20
+Ratio del sensore MQ8: 44.44
+Temperatura > 20
+Ratio del sensore MQ135: 47.65
+Temperatura > 20
+MQ2_RH=39.69
+MQ3_RH=45.09
+MQ4_RH=56.30
+MQ5_RH=7.45
+MQ6_RH=0.87
+MQ7_RH=30.40
+MQ8_RH=44.47
+MQ135_RH=47.68
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.40
+UmiditÃ  AM2302: 29.30
+MG811 volts: 0.48
+MG811 CO2: -20032
+HCH0 r0: 169.50
+Airquality(MP503): sensor_value:6	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 31.40
+hum: 29.50
+Ratio del sensore MQ2: 39.46
+Temperatura > 20
+Ratio del sensore MQ3: 45.40
+Temperatura > 20
+Ratio del sensore MQ4: 56.27
+Temperatura > 20
+Ratio del sensore MQ5: 7.43
+Temperatura > 20
+Ratio del sensore MQ6: 0.89
+Temperatura > 20
+Ratio del sensore MQ7: 30.41
+Temperatura > 20
+Ratio del sensore MQ8: 44.13
+Temperatura > 20
+Ratio del sensore MQ135: 46.73
+Temperatura > 20
+MQ2_RH=39.49
+MQ3_RH=45.43
+MQ4_RH=56.30
+MQ5_RH=7.46
+MQ6_RH=0.92
+MQ7_RH=30.44
+MQ8_RH=44.16
+MQ135_RH=46.76
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.40
+UmiditÃ  AM2302: 29.50
+MG811 volts: 0.48
+MG811 CO2: 24512
+HCH0 r0: 169.50
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########
+###########Inizio lettura sensori Interni###########
+Temperatura 31.40
+hum: 29.60
+Ratio del sensore MQ2: 43.89
+Temperatura > 20
+Ratio del sensore MQ3: 47.22
+Temperatura > 20
+Ratio del sensore MQ4: 57.35
+Temperatura > 20
+Ratio del sensore MQ5: 7.52
+Temperatura > 20
+Ratio del sensore MQ6: 0.86
+Temperatura > 20
+Ratio del sensore MQ7: 30.61
+Temperatura > 20
+Ratio del sensore MQ8: 44.97
+Temperatura > 20
+Ratio del sensore MQ135: 47.96
+Temperatura > 20
+MQ2_RH=43.92
+MQ3_RH=47.25
+MQ4_RH=57.38
+MQ5_RH=7.55
+MQ6_RH=0.89
+MQ7_RH=30.64
+MQ8_RH=45.00
+MQ135_RH=47.99
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.40
+UmiditÃ  AM2302: 29.60
+MG811 volts: 0.48
+MG811 CO2: 16320
+HCH0 r0: 169.50
+Airquality(MP503): sensor_value:5	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 98936
+PPD32NS Concetrazione: 2613.12
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 31.40
+hum: 29.70
+Ratio del sensore MQ2: 44.55
+Temperatura > 20
+Ratio del sensore MQ3: 48.33
+Temperatura > 20
+Ratio del sensore MQ4: 57.66
+Temperatura > 20
+Ratio del sensore MQ5: 7.53
+Temperatura > 20
+Ratio del sensore MQ6: 0.90
+Temperatura > 20
+Ratio del sensore MQ7: 30.72
+Temperatura > 20
+Ratio del sensore MQ8: 44.86
+Temperatura > 20
+Ratio del sensore MQ135: 48.00
+Temperatura > 20
+MQ2_RH=44.58
+MQ3_RH=48.36
+MQ4_RH=57.69
+MQ5_RH=7.56
+MQ6_RH=0.93
+MQ7_RH=30.75
+MQ8_RH=44.89
+MQ135_RH=48.03
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.40
+UmiditÃ  AM2302: 29.70
+MG811 volts: 0.48
+MG811 CO2: 24512
+HCH0 r0: 203.60
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########
+###########Inizio lettura sensori Interni###########
+Temperatura 31.40
+hum: 29.60
+Ratio del sensore MQ2: 46.28
+Temperatura > 20
+Ratio del sensore MQ3: 49.27
+Temperatura > 20
+Ratio del sensore MQ4: 58.37
+Temperatura > 20
+Ratio del sensore MQ5: 7.67
+Temperatura > 20
+Ratio del sensore MQ6: 0.82
+Temperatura > 20
+Ratio del sensore MQ7: 31.20
+Temperatura > 20
+Ratio del sensore MQ8: 45.11
+Temperatura > 20
+Ratio del sensore MQ135: 48.89
+Temperatura > 20
+MQ2_RH=46.31
+MQ3_RH=49.30
+MQ4_RH=58.40
+MQ5_RH=7.70
+MQ6_RH=0.85
+MQ7_RH=31.23
+MQ8_RH=45.14
+MQ135_RH=48.92
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.24
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.40
+UmiditÃ  AM2302: 29.60
+MG811 volts: 0.48
+MG811 CO2: -20032
+HCH0 r0: 203.60
+Airquality(MP503): sensor_value:5	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 31.40
+hum: 29.60
+Ratio del sensore MQ2: 45.75
+Temperatura > 20
+Ratio del sensore MQ3: 48.80
+Temperatura > 20
+Ratio del sensore MQ4: 58.42
+Temperatura > 20
+Ratio del sensore MQ5: 7.75
+Temperatura > 20
+Ratio del sensore MQ6: 0.93
+Temperatura > 20
+Ratio del sensore MQ7: 31.38
+Temperatura > 20
+Ratio del sensore MQ8: 45.13
+Temperatura > 20
+Ratio del sensore MQ135: 48.91
+Temperatura > 20
+MQ2_RH=45.78
+MQ3_RH=48.83
+MQ4_RH=58.45
+MQ5_RH=7.78
+MQ6_RH=0.96
+MQ7_RH=31.41
+MQ8_RH=45.16
+MQ135_RH=48.94
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.23
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.28
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.40
+UmiditÃ  AM2302: 29.60
+MG811 volts: 0.48
+MG811 CO2: 24512
+HCH0 r0: 203.60
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########
+###########Inizio lettura sensori Interni###########
+Temperatura 31.40
+hum: 29.60
+Ratio del sensore MQ2: 47.57
+Temperatura > 20
+Ratio del sensore MQ3: 47.36
+Temperatura > 20
+Ratio del sensore MQ4: 60.79
+Temperatura > 20
+Ratio del sensore MQ5: 7.93
+Temperatura > 20
+Ratio del sensore MQ6: 0.92
+Temperatura > 20
+Ratio del sensore MQ7: 30.70
+Temperatura > 20
+Ratio del sensore MQ8: 45.14
+Temperatura > 20
+Ratio del sensore MQ135: 48.84
+Temperatura > 20
+MQ2_RH=47.60
+MQ3_RH=47.39
+MQ4_RH=60.82
+MQ5_RH=7.96
+MQ6_RH=0.95
+MQ7_RH=30.73
+MQ8_RH=45.17
+MQ135_RH=48.87
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.24
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.29
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.40
+UmiditÃ  AM2302: 29.60
+MG811 volts: 0.48
+MG811 CO2: 896
+HCH0 r0: 203.60
+Airquality(MP503): sensor_value:4	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 31.40
+hum: 29.60
+Ratio del sensore MQ2: 49.24
+Temperatura > 20
+Ratio del sensore MQ3: 48.33
+Temperatura > 20
+Ratio del sensore MQ4: 62.43
+Temperatura > 20
+Ratio del sensore MQ5: 8.24
+Temperatura > 20
+Ratio del sensore MQ6: 0.91
+Temperatura > 20
+Ratio del sensore MQ7: 30.81
+Temperatura > 20
+Ratio del sensore MQ8: 45.13
+Temperatura > 20
+Ratio del sensore MQ135: 48.85
+Temperatura > 20
+MQ2_RH=49.27
+MQ3_RH=48.36
+MQ4_RH=62.46
+MQ5_RH=8.27
+MQ6_RH=0.94
+MQ7_RH=30.84
+MQ8_RH=45.16
+MQ135_RH=48.88
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.24
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.29
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.40
+UmiditÃ  AM2302: 29.60
+MG811 volts: 0.48
+MG811 CO2: 24512
+HCH0 r0: 254.75
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########
+###########Inizio lettura sensori Interni###########
+Temperatura 31.40
+hum: 29.50
+Ratio del sensore MQ2: 50.17
+Temperatura > 20
+Ratio del sensore MQ3: 47.96
+Temperatura > 20
+Ratio del sensore MQ4: 64.46
+Temperatura > 20
+Ratio del sensore MQ5: 8.67
+Temperatura > 20
+Ratio del sensore MQ6: 0.84
+Temperatura > 20
+Ratio del sensore MQ7: 30.61
+Temperatura > 20
+Ratio del sensore MQ8: 45.03
+Temperatura > 20
+Ratio del sensore MQ135: 48.78
+Temperatura > 20
+MQ2_RH=50.20
+MQ3_RH=47.99
+MQ4_RH=64.49
+MQ5_RH=8.70
+MQ6_RH=0.87
+MQ7_RH=30.64
+MQ8_RH=45.06
+MQ135_RH=48.81
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.24
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.29
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.40
+UmiditÃ  AM2302: 29.50
+MG811 volts: 0.48
+MG811 CO2: 896
+HCH0 r0: 254.75
+Airquality(MP503): sensor_value:4	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 31.40
+hum: 29.60
+Ratio del sensore MQ2: 51.58
+Temperatura > 20
+Ratio del sensore MQ3: 49.03
+Temperatura > 20
+Ratio del sensore MQ4: 66.34
+Temperatura > 20
+Ratio del sensore MQ5: 9.03
+Temperatura > 20
+Ratio del sensore MQ6: 0.87
+Temperatura > 20
+Ratio del sensore MQ7: 30.57
+Temperatura > 20
+Ratio del sensore MQ8: 45.47
+Temperatura > 20
+Ratio del sensore MQ135: 50.05
+Temperatura > 20
+MQ2_RH=51.61
+MQ3_RH=49.06
+MQ4_RH=66.37
+MQ5_RH=9.06
+MQ6_RH=0.90
+MQ7_RH=30.60
+MQ8_RH=45.50
+MQ135_RH=50.08
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.24
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.29
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.40
+UmiditÃ  AM2302: 29.60
+MG811 volts: 0.47
+MG811 CO2: 13696
+HCH0 r0: 203.60
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 28456
+PPD32NS Concetrazione: 735.95
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########
+###########Inizio lettura sensori Interni###########
+Temperatura 31.40
+hum: 29.60
+Ratio del sensore MQ2: 45.66
+Temperatura > 20
+Ratio del sensore MQ3: 48.80
+Temperatura > 20
+Ratio del sensore MQ4: 65.14
+Temperatura > 20
+Ratio del sensore MQ5: 8.62
+Temperatura > 20
+Ratio del sensore MQ6: 0.83
+Temperatura > 20
+Ratio del sensore MQ7: 30.50
+Temperatura > 20
+Ratio del sensore MQ8: 43.86
+Temperatura > 20
+Ratio del sensore MQ135: 47.43
+Temperatura > 20
+MQ2_RH=45.69
+MQ3_RH=48.83
+MQ4_RH=65.17
+MQ5_RH=8.65
+MQ6_RH=0.86
+MQ7_RH=30.53
+MQ8_RH=43.89
+MQ135_RH=47.46
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.24
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.29
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.40
+UmiditÃ  AM2302: 29.60
+MG811 volts: 0.47
+MG811 CO2: 13696
+HCH0 r0: 203.60
+Airquality(MP503): sensor_value:5	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 31.30
+hum: 29.60
+Ratio del sensore MQ2: 41.38
+Temperatura > 20
+Ratio del sensore MQ3: 48.33
+Temperatura > 20
+Ratio del sensore MQ4: 61.15
+Temperatura > 20
+Ratio del sensore MQ5: 8.16
+Temperatura > 20
+Ratio del sensore MQ6: 0.85
+Temperatura > 20
+Ratio del sensore MQ7: 30.57
+Temperatura > 20
+Ratio del sensore MQ8: 43.75
+Temperatura > 20
+Ratio del sensore MQ135: 46.82
+Temperatura > 20
+MQ2_RH=41.41
+MQ3_RH=48.36
+MQ4_RH=61.18
+MQ5_RH=8.19
+MQ6_RH=0.88
+MQ7_RH=30.60
+MQ8_RH=43.78
+MQ135_RH=46.85
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.24
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.29
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.30
+UmiditÃ  AM2302: 29.60
+MG811 volts: 0.48
+MG811 CO2: 24512
+HCH0 r0: 169.50
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########
+###########Inizio lettura sensori Interni###########
+Temperatura 31.30
+hum: 29.60
+Ratio del sensore MQ2: 38.88
+Temperatura > 20
+Ratio del sensore MQ3: 47.66
+Temperatura > 20
+Ratio del sensore MQ4: 55.34
+Temperatura > 20
+Ratio del sensore MQ5: 7.42
+Temperatura > 20
+Ratio del sensore MQ6: 0.87
+Temperatura > 20
+Ratio del sensore MQ7: 30.63
+Temperatura > 20
+Ratio del sensore MQ8: 43.42
+Temperatura > 20
+Ratio del sensore MQ135: 46.74
+Temperatura > 20
+MQ2_RH=38.91
+MQ3_RH=47.69
+MQ4_RH=55.37
+MQ5_RH=7.45
+MQ6_RH=0.90
+MQ7_RH=30.66
+MQ8_RH=43.45
+MQ135_RH=46.77
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.24
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.29
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.30
+UmiditÃ  AM2302: 29.60
+MG811 volts: 0.48
+MG811 CO2: 16320
+HCH0 r0: 169.50
+Airquality(MP503): sensor_value:7	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 31.30
+hum: 29.70
+Ratio del sensore MQ2: 38.19
+Temperatura > 20
+Ratio del sensore MQ3: 48.64
+Temperatura > 20
+Ratio del sensore MQ4: 54.42
+Temperatura > 20
+Ratio del sensore MQ5: 7.24
+Temperatura > 20
+Ratio del sensore MQ6: 0.90
+Temperatura > 20
+Ratio del sensore MQ7: 30.92
+Temperatura > 20
+Ratio del sensore MQ8: 43.49
+Temperatura > 20
+Ratio del sensore MQ135: 46.90
+Temperatura > 20
+MQ2_RH=38.22
+MQ3_RH=48.67
+MQ4_RH=54.45
+MQ5_RH=7.27
+MQ6_RH=0.93
+MQ7_RH=30.95
+MQ8_RH=43.52
+MQ135_RH=46.93
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.24
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.29
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.30
+UmiditÃ  AM2302: 29.70
+MG811 volts: 0.48
+MG811 CO2: 896
+HCH0 r0: 169.50
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########
+###########Inizio lettura sensori Interni###########
+Temperatura 31.20
+hum: 29.60
+Ratio del sensore MQ2: 39.59
+Temperatura > 20
+Ratio del sensore MQ3: 48.64
+Temperatura > 20
+Ratio del sensore MQ4: 53.71
+Temperatura > 20
+Ratio del sensore MQ5: 6.99
+Temperatura > 20
+Ratio del sensore MQ6: 0.87
+Temperatura > 20
+Ratio del sensore MQ7: 30.61
+Temperatura > 20
+Ratio del sensore MQ8: 43.61
+Temperatura > 20
+Ratio del sensore MQ135: 47.65
+Temperatura > 20
+MQ2_RH=39.62
+MQ3_RH=48.67
+MQ4_RH=53.74
+MQ5_RH=7.02
+MQ6_RH=0.90
+MQ7_RH=30.64
+MQ8_RH=43.65
+MQ135_RH=47.68
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.24
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.29
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.20
+UmiditÃ  AM2302: 29.60
+MG811 volts: 0.48
+MG811 CO2: -20032
+HCH0 r0: 169.50
+Airquality(MP503): sensor_value:6	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 31.20
+hum: 29.80
+Ratio del sensore MQ2: 39.26
+Temperatura > 20
+Ratio del sensore MQ3: 48.41
+Temperatura > 20
+Ratio del sensore MQ4: 53.03
+Temperatura > 20
+Ratio del sensore MQ5: 6.94
+Temperatura > 20
+Ratio del sensore MQ6: 0.86
+Temperatura > 20
+Ratio del sensore MQ7: 30.70
+Temperatura > 20
+Ratio del sensore MQ8: 43.68
+Temperatura > 20
+Ratio del sensore MQ135: 47.66
+Temperatura > 20
+MQ2_RH=39.29
+MQ3_RH=48.44
+MQ4_RH=53.06
+MQ5_RH=6.97
+MQ6_RH=0.89
+MQ7_RH=30.73
+MQ8_RH=43.71
+MQ135_RH=47.69
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.24
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.29
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.20
+UmiditÃ  AM2302: 29.80
+MG811 volts: 0.48
+MG811 CO2: -20032
+HCH0 r0: 169.50
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########
+###########Inizio lettura sensori Interni###########
+Temperatura 31.20
+hum: 29.80
+Ratio del sensore MQ2: 39.20
+Temperatura > 20
+Ratio del sensore MQ3: 47.36
+Temperatura > 20
+Ratio del sensore MQ4: 52.64
+Temperatura > 20
+Ratio del sensore MQ5: 7.08
+Temperatura > 20
+Ratio del sensore MQ6: 3.09
+Temperatura > 20
+Ratio del sensore MQ7: 30.54
+Temperatura > 20
+Ratio del sensore MQ8: 43.83
+Temperatura > 20
+Ratio del sensore MQ135: 47.79
+Temperatura > 20
+MQ2_RH=39.23
+MQ3_RH=47.39
+MQ4_RH=52.67
+MQ5_RH=7.11
+MQ6_RH=3.12
+MQ7_RH=30.57
+MQ8_RH=43.86
+MQ135_RH=47.82
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.24
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.29
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.20
+UmiditÃ  AM2302: 29.80
+MG811 volts: 0.48
+MG811 CO2: 16320
+HCH0 r0: 169.50
+Airquality(MP503): sensor_value:6	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 31.10
+hum: 29.90
+Ratio del sensore MQ2: 39.46
+Temperatura > 20
+Ratio del sensore MQ3: 45.80
+Temperatura > 20
+Ratio del sensore MQ4: 52.55
+Temperatura > 20
+Ratio del sensore MQ5: 6.92
+Temperatura > 20
+Ratio del sensore MQ6: 0.63
+Temperatura > 20
+Ratio del sensore MQ7: 30.33
+Temperatura > 20
+Ratio del sensore MQ8: 43.83
+Temperatura > 20
+Ratio del sensore MQ135: 47.80
+Temperatura > 20
+MQ2_RH=39.49
+MQ3_RH=45.83
+MQ4_RH=52.58
+MQ5_RH=6.95
+MQ6_RH=0.66
+MQ7_RH=30.36
+MQ8_RH=43.86
+MQ135_RH=47.83
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.24
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.29
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.10
+UmiditÃ  AM2302: 29.90
+MG811 volts: 0.48
+MG811 CO2: 16320
+HCH0 r0: 169.50
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########
+###########Inizio lettura sensori Interni###########
+Temperatura 31.10
+hum: 29.90
+Ratio del sensore MQ2: 39.79
+Temperatura > 20
+Ratio del sensore MQ3: 43.90
+Temperatura > 20
+Ratio del sensore MQ4: 51.85
+Temperatura > 20
+Ratio del sensore MQ5: 6.84
+Temperatura > 20
+Ratio del sensore MQ6: 0.82
+Temperatura > 20
+Ratio del sensore MQ7: 28.49
+Temperatura > 20
+Ratio del sensore MQ8: 43.89
+Temperatura > 20
+Ratio del sensore MQ135: 47.87
+Temperatura > 20
+MQ2_RH=39.82
+MQ3_RH=43.93
+MQ4_RH=51.88
+MQ5_RH=6.87
+MQ6_RH=0.86
+MQ7_RH=28.52
+MQ8_RH=43.92
+MQ135_RH=47.90
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.24
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.29
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.10
+UmiditÃ  AM2302: 29.90
+MG811 volts: 0.48
+MG811 CO2: -20032
+HCH0 r0: 203.60
+Airquality(MP503): sensor_value:6	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 215082
+PPD32NS Concetrazione: 6521.37
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 31.00
+hum: 30.00
+Ratio del sensore MQ2: 40.53
+Temperatura > 20
+Ratio del sensore MQ3: 43.46
+Temperatura > 20
+Ratio del sensore MQ4: 52.72
+Temperatura > 20
+Ratio del sensore MQ5: 6.88
+Temperatura > 20
+Ratio del sensore MQ6: 0.88
+Temperatura > 20
+Ratio del sensore MQ7: 28.34
+Temperatura > 20
+Ratio del sensore MQ8: 43.80
+Temperatura > 20
+Ratio del sensore MQ135: 47.79
+Temperatura > 20
+MQ2_RH=40.56
+MQ3_RH=43.49
+MQ4_RH=52.75
+MQ5_RH=6.91
+MQ6_RH=0.91
+MQ7_RH=28.37
+MQ8_RH=43.83
+MQ135_RH=47.82
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.24
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.29
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.00
+UmiditÃ  AM2302: 30.00
+MG811 volts: 0.47
+MG811 CO2: 13696
+HCH0 r0: 169.50
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 199344
+PPD32NS Concetrazione: 5895.26
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########
+###########Inizio lettura sensori Interni###########
+Temperatura 31.00
+hum: 30.00
+Ratio del sensore MQ2: 39.39
+Temperatura > 20
+Ratio del sensore MQ3: 43.84
+Temperatura > 20
+Ratio del sensore MQ4: 52.68
+Temperatura > 20
+Ratio del sensore MQ5: 6.85
+Temperatura > 20
+Ratio del sensore MQ6: 0.82
+Temperatura > 20
+Ratio del sensore MQ7: 28.20
+Temperatura > 20
+Ratio del sensore MQ8: 43.29
+Temperatura > 20
+Ratio del sensore MQ135: 46.96
+Temperatura > 20
+MQ2_RH=39.42
+MQ3_RH=43.87
+MQ4_RH=52.71
+MQ5_RH=6.88
+MQ6_RH=0.86
+MQ7_RH=28.23
+MQ8_RH=43.32
+MQ135_RH=46.99
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.24
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.29
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.00
+UmiditÃ  AM2302: 30.00
+MG811 volts: 0.48
+MG811 CO2: 16320
+HCH0 r0: 169.50
+Airquality(MP503): sensor_value:6	 Air fresh
+Fresh air
+Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Interni###########
+
+###########Inizio lettura sensori Esterni###########
+Temperatura 31.00
+hum: 30.40
+Ratio del sensore MQ2: 39.13
+Temperatura > 20
+Ratio del sensore MQ3: 43.96
+Temperatura > 20
+Ratio del sensore MQ4: 51.97
+Temperatura > 20
+Ratio del sensore MQ5: 6.80
+Temperatura > 20
+Ratio del sensore MQ6: 0.84
+Temperatura > 20
+Ratio del sensore MQ7: 28.30
+Temperatura > 20
+Ratio del sensore MQ8: 43.39
+Temperatura > 20
+Ratio del sensore MQ135: 47.47
+Temperatura > 20
+MQ2_RH=39.16
+MQ3_RH=43.99
+MQ4_RH=52.00
+MQ5_RH=6.83
+MQ6_RH=0.87
+MQ7_RH=28.33
+MQ8_RH=43.42
+MQ135_RH=47.50
+Inizio Lettura sensore MicS6814(MultiChannelGasSensor)
+MicS6814(MultiChannelGasSensor) ratio1: 0.24
+MicS6814(MultiChannelGasSensor) ratio2: 0.14
+MicS6814(MultiChannelGasSensor) ratio3: 0.29
+Fine Lettura sensore MicS6814(MultiChannelGasSensor)
+Temperatura AM2302: 31.00
+UmiditÃ  AM2302: 30.40
+MG811 volts: 0.48
+MG811 CO2: -20032
+HCH0 r0: 169.50
+Airquality(MP503): Mhz16 temperatura: 0
+Mhz16 co2: 0
+PPD42NS time: 0
+PPD32NS Concetrazione: 0.62
+PPD32NS Duty Cycle: 0
+###########Fine lettura sensori Esterni###########

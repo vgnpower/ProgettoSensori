@@ -1,0 +1,8 @@
+C:\Users\Ale\documents\visual studio 2017\Projects\ModificaSketch\ModificaSketch\bin\Release\ModificaSketch.exe.config
+C:\Users\Ale\documents\visual studio 2017\Projects\ModificaSketch\ModificaSketch\bin\Release\ModificaSketch.exe
+C:\Users\Ale\documents\visual studio 2017\Projects\ModificaSketch\ModificaSketch\bin\Release\ModificaSketch.pdb
+C:\Users\Ale\documents\visual studio 2017\Projects\ModificaSketch\ModificaSketch\obj\Release\ModificaSketch.Form1.resources
+C:\Users\Ale\documents\visual studio 2017\Projects\ModificaSketch\ModificaSketch\obj\Release\ModificaSketch.Properties.Resources.resources
+C:\Users\Ale\documents\visual studio 2017\Projects\ModificaSketch\ModificaSketch\obj\Release\ModificaSketch.csproj.GenerateResource.Cache
+C:\Users\Ale\documents\visual studio 2017\Projects\ModificaSketch\ModificaSketch\obj\Release\ModificaSketch.exe
+C:\Users\Ale\documents\visual studio 2017\Projects\ModificaSketch\ModificaSketch\obj\Release\ModificaSketch.pdb

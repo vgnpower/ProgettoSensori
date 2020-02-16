@@ -1,0 +1,18 @@
+Lettura con sampletime cambiato a 3minuti=180000ms
+Come si relaziona con le altre letture, questo sample time?Tutto a 3 minuti
+concentration = 76.84 pcs/0.01cf
+
+
+concentration = 92.11 pcs/0.01cf
+
+
+concentration = 0.62 pcs/0.01cf
+
+
+concentration = 178.65 pcs/0.01cf
+
+
+concentration = 21.15 pcs/0.01cf
+
+
+concentration = 374.81 pcs/0.01cf
